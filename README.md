@@ -12,9 +12,9 @@
 
 ## To run the project locally
 
-* clone this Repository by `git clone https://github.com/S-codes14/SnApp-App.git`.
+* clone server Repository by `git clone https://github.com/S-codes14/SnApp-App.git`.
 * clone client Repository by `git clone https://github.com/S-codes14/SnApp.git`.
-* create a .env file and add these
+* create a .env file  in the server and add these
     - `MONGO_URI=mongodb+srv://Sibongumusa:Southgate1@cluster0.jgqxi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
     - `PORT=8080`
     - `JWT_SECRET=any-random-string-of-any-length`
